@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Vieira</h1>
-<h3 align="center">I'm a 30 years old developer from RJ, currently living in Itajaí - SC. As a professional I offer complete solutions for web and mobile systems, applying the skills I've been working on the last 10 years. I am passionate about technology, and love spending my free time studying new IT solutions and developing systems to myself and my business partners.</h3>
+<h3 align="center">I'm a 32 years old developer from RJ, currently living in Itajaí - SC. As a professional I offer complete solutions for web and mobile systems, applying the skills I've been working on the last 10 years. I am passionate about technology, and love spending my free time studying new IT solutions and developing systems to myself and my business partners.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvieira850&label=Profile%20views&color=0e75b6&style=flat" alt="cvieira850" /> </p>
 
